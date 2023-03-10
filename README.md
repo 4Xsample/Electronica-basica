@@ -16,7 +16,5 @@ Les guies que es poden trobar en aquest repositori seràn:
 
 - **De breadboard a protoboard**: Aquesta guia explica com passar d'un prototip fet amb una breadboard o placa d'assaig a un circuit definitiu fet amb una protoboard o placa perforada.
 
-- **Altres guies**: En aquest repositori també trobaràs altres guies sobre fluxos per a la soldadura, eines per a la soldadura, seguretat per a la soldadura i altres temes relacionats amb l'electrònica.
-
 ## Disclaimer: 
 *Aquest codi s'ofereix tal com és i no es garanteix que funcioni correctament en totes les condicions. No em faig responsable dels danys que puguin resultar de l'ús d'aquesta informació. Utilitzeu-lo sota la vostra pròpia responsabilitat. Si teniu dubtes pregunteu i respondré al que pugui. Si voleu obrir proposar cambis podeu obrir fork i i voleu seguir-me, al panel del principi d'aquest readme podeu trobar links a les meves xarxes socials, Twitch i PayPal per si també voleu donar suport al meu treball.*
